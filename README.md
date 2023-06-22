@@ -2,7 +2,8 @@
 - 👀 I’m interested in html/css/js. discord.js . java/kotlin
 - 🌱 I’m currently bot developing using  discord.js 
 - 💞️ I’m looking to collaborate all people can work together
-- 📫 How to reach me discord Regenade#5046
+- 📫 How to reach me discord regenade#0
+- [add me](https://discord.gg/angkringan)
 
 <p align="center" ## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
 
