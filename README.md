@@ -57,8 +57,9 @@
 <!--RECENT_ACTIVITY_START-->
 <!--RECENT_ACTIVITY_END-->
 
-## Language Analysis
+## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primahagantha&layout=compact)
+![Prima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=primahagantha&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <p align="center">
   <a href="https://discord.com/users/313588026766917632">
@@ -66,7 +67,6 @@
   </a>
 </p>
 
-![Prima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=primahagantha&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <!---
 primahagantha/primahagantha is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
