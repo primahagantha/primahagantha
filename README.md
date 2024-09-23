@@ -58,7 +58,7 @@
 <!--RECENT_ACTIVITY_END-->
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primahagantha&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primahagantha&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Prima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=primahagantha&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <p align="center">
