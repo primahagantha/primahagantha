@@ -66,6 +66,8 @@
   </a>
 </p>
 
+[![Prima's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=primahagantha&show_icons=true&theme=dark#gh-dark-mode-only)
+
 <!---
 primahagantha/primahagantha is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
