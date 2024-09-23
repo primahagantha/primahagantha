@@ -7,7 +7,7 @@
 
 ## About Me
 - 👋 **Name**: My name is **Prima Hagantha**.
-- 🇮🇩 **Origin**: I am from **Indonesia** ![Indonesia Flag](https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg)
+- 🇮🇩 **Origin**: I am from **Indonesia** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia Flag" width="20" height="15" />
 - 🎓 **Education**: I am currently studying at a university in Indonesia.
 - 👀 **Interests**: I have a keen interest in **Web Programming, Backend, Java/Kotlin**. I enjoy exploring new technologies and applying them in my projects.
 - 🌱 **Current Focus**: I'm currently focused on developing innovative bots using **Discord.js**. I love creating tools that enhance user experiences on Discord.
@@ -56,6 +56,9 @@
 ## Recent Activity
 <!--RECENT_ACTIVITY_START-->
 <!--RECENT_ACTIVITY_END-->
+
+## Language Analysis
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primahagantha&layout=compact)
 
 <p align="center">
   <a href="https://discord.com/users/313588026766917632">
