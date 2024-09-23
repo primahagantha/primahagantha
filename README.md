@@ -5,13 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=primahagantha" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/313588026766917632">
-    <img src="https://discord.c99.nl/widget/theme-1/313588026766917632.png" alt="Regenade#7359 (313588026766917632)" />
-  </a>
-</p>
-
 ## About Me
+- 👋 **Name**: My name is **Prima Hagantha**.
+- 🇮🇩 **Origin**: I am from **Indonesia** ![Indonesia Flag](https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg)
+- 🎓 **Education**: I am currently studying at a university in Indonesia.
 - 👀 **Interests**: I have a keen interest in **Web Programming, Backend, Java/Kotlin**. I enjoy exploring new technologies and applying them in my projects.
 - 🌱 **Current Focus**: I'm currently focused on developing innovative bots using **Discord.js**. I love creating tools that enhance user experiences on Discord.
 - 💞️ **Collaboration**: I'm always open to collaborating with like-minded individuals who are passionate about technology and teamwork. Let's build something amazing together!
@@ -57,7 +54,14 @@
 </p>
 
 ## Recent Activity
+<!--RECENT_ACTIVITY_START-->
+<!--RECENT_ACTIVITY_END-->
 
+<p align="center">
+  <a href="https://discord.com/users/313588026766917632">
+    <img src="https://discord.c99.nl/widget/theme-1/313588026766917632.png" alt="Regenade#7359 (313588026766917632)" />
+  </a>
+</p>
 
 <!---
 primahagantha/primahagantha is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
