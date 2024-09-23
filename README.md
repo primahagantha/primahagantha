@@ -53,9 +53,9 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
-## Recent Activity
-<!--RECENT_ACTIVITY_START-->
-<!--RECENT_ACTIVITY_END-->
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primahagantha&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
