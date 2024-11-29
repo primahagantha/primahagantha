@@ -8,7 +8,7 @@
 ## About Me
 - 👋 **Name**: My name is **Prima Hagantha**.
 - 🇮🇩 **Origin**: I am from **Indonesia** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia Flag" width="20" height="15" />
-- 🎓 **Education**: I am currently studying at a university in Indonesia.
+- 🎓 **Education**: I am currently undergraduate at a Universitas Sumatera Utara.
 - 👀 **Interests**: I have a keen interest in **Web Programming, Backend, Java/Kotlin**. I enjoy exploring new technologies and applying them in my projects.
 - 🌱 **Current Focus**: I'm currently focused on developing innovative bots using **Discord.js**. I love creating tools that enhance user experiences on Discord.
 - 💞️ **Collaboration**: I'm always open to collaborating with like-minded individuals who are passionate about technology and teamwork. Let's build something amazing together!
