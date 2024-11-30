@@ -55,6 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#7](https://github.com/vinmora/Volatoon/pull/7) in [vinmora/Volatoon](https://github.com/vinmora/Volatoon)
 <!--END_SECTION:activity-->
 
 ## Github Stats
