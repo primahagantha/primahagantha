@@ -55,7 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/vinmora/Volatoon/pull/8) in [vinmora/Volatoon](https://github.com/vinmora/Volatoon)
+1. 🚀 Published release [Volatoon 1.0.4](https://github.com/Rafaellsimarmata/volatoon/releases/tag/v1.0.4) in [Rafaellsimarmata/volatoon](https://github.com/Rafaellsimarmata/volatoon)
 <!--END_SECTION:activity-->
 
 ## Github Stats
