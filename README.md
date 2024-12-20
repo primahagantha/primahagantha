@@ -55,7 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Volatoon 1.0.4](https://github.com/Rafaellsimarmata/volatoon/releases/tag/v1.0.4) in [Rafaellsimarmata/volatoon](https://github.com/Rafaellsimarmata/volatoon)
+1. 🚀 Published release [v1.0.5](https://github.com/Rafaellsimarmata/volatoon/releases/tag/v1.0.5) in [Rafaellsimarmata/volatoon](https://github.com/Rafaellsimarmata/volatoon)
 <!--END_SECTION:activity-->
 
 ## Github Stats
