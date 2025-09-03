@@ -55,7 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/primahagantha/veskai-lite/pull/2#issuecomment-3247687092) in [primahagantha/veskai-lite](https://github.com/primahagantha/veskai-lite)
+1. 🎉 Merged PR [#1](https://github.com/Rocinante9999/veskai-lite/pull/1) in [Rocinante9999/veskai-lite](https://github.com/Rocinante9999/veskai-lite)
 <!--END_SECTION:activity-->
 
 ## Github Stats
