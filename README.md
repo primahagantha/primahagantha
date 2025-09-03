@@ -55,7 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.5](https://github.com/Rafaellsimarmata/volatoon/releases/tag/v1.0.5) in [Rafaellsimarmata/volatoon](https://github.com/Rafaellsimarmata/volatoon)
+1. 🎉 Merged PR [#1](https://github.com/primahagantha/veskai-lite/pull/1) in [primahagantha/veskai-lite](https://github.com/primahagantha/veskai-lite)
 <!--END_SECTION:activity-->
 
 ## Github Stats
