@@ -55,7 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [Rocinante9999/veskai-lite](https://github.com/Rocinante9999/veskai-lite)
+1. 🎉 Merged PR [#2](https://github.com/Rocinante9999/veskai-lite/pull/2) in [Rocinante9999/veskai-lite](https://github.com/Rocinante9999/veskai-lite)
 <!--END_SECTION:activity-->
 
 ## Github Stats
