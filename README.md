@@ -13,7 +13,7 @@
 - 🌱 **Current Focus**: I'm currently focused on developing innovative bots using **Discord.js**. I love creating tools that enhance user experiences on Discord.
 - 💞️ **Collaboration**: I'm always open to collaborating with like-minded individuals who are passionate about technology and teamwork. Let's build something amazing together!
 - 📫 **Contact Me**: You can reach me on Discord at **regenade#0**. Feel free to drop a message!
-- 🎉 **Join My Community**: [Join my Discord server](https://discord.gg/veskai) to connect, collaborate, and share ideas with a vibrant community of developers and tech enthusiasts.
+
 
 ## Skills
 ### Programming Languages
