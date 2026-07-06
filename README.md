@@ -55,7 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/RegenadeJester/nonaterm/pull/5) in [RegenadeJester/nonaterm](https://github.com/RegenadeJester/nonaterm)
+1. ℹ️ Labeled PR [#19](https://github.com/RegenadeJester/nonaterm/pull/19) in [RegenadeJester/nonaterm](https://github.com/RegenadeJester/nonaterm)
 <!--END_SECTION:activity-->
 
 ## Github Stats
