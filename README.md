@@ -55,7 +55,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/primahagantha/phonecam/releases/tag/v1.0.0) in [primahagantha/phonecam](https://github.com/primahagantha/phonecam)
+1. 🚀 Published release [PhoneCam Release v1.0.0](https://github.com/primahagantha/phonecam/releases/tag/v1.0.0) in [primahagantha/phonecam](https://github.com/primahagantha/phonecam)
 <!--END_SECTION:activity-->
 
 ## Github Stats
